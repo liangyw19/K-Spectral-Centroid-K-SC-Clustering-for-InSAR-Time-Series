@@ -20,6 +20,7 @@ Scaling invariance (via α)
 Shape-based clustering
 
 Robustness to phase shifts via eigendecomposition in centroid updates
-
+📊 Evaluation
+If you want to evaluate clustering quality using silhouette scores based on the custom d_hat metric
 📘 Reference
 Yang, J., & Leskovec, J. (2011). Patterns of temporal variation in online media. Proceedings of the fourth ACM international conference on Web search and data mining
